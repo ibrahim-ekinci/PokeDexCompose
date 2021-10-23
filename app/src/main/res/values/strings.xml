@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PokeDexCompose</string>
+    <string name="an_unknown_error_occurred">An unknown error occurred.</string>
 </resources>
